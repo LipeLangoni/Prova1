@@ -12,4 +12,4 @@ rm -r /var/www/html/index.html
 cd /var/www/html/
 mv cv-resumido.html index.html
 /etc/init.d/apache2 start
-.
+
